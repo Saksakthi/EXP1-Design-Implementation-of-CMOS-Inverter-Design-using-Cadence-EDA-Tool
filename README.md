@@ -95,14 +95,14 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![image](https://github.com/dharun06/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/1.jpeg)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ ![image](https://github.com/dharun06/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/4.jpeg)
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![image](https://github.com/dharun06/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/3.jpeg)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![image](https://github.com/dharun06/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/2.jpeg)
 
  
 
@@ -115,7 +115,6 @@ Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
-
 
 
 
